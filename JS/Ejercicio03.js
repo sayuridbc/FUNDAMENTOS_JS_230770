@@ -256,7 +256,7 @@ console.log("Imprimir la estructura y valores del objeto de PEDIDO")
 console.table(pedido);
 
 
-
+//sayurid b
 //suponiendo que el ususario ya realizó el pago el pedido se convertira en una VENTA que requiere información de ambos objetos 
 let Producto3={...Producto}
 const Venta = Object.assign(Producto3, pedido);

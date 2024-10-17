@@ -40,6 +40,7 @@ const fechaLocal1MX =fechaActual.toLocaleString('es-MX',
         estacion="primavera"
         horarioVerano=true;
         //
+        //
      }
      else if (fechaActual>=inicioVerano &&fechaActual<inicioOtonio)
         {

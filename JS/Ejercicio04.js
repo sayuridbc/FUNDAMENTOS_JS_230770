@@ -93,9 +93,9 @@ console.log(`Elemento en la posicion [1][2] (¿Es María mayor de edad?): ${matr
 
 
 // Funciones y Métodos de Arreglos
-// Los metodos de un objeto siempre son invocados usando un . y al termino se delimitan los parametros entre (), en caso de que no lleve (), no es un método sino una propiedad
+// Los metodos de un objeto siempre son invocados usando un y al termino se delimitan los parametros entre (), en caso de que no lleve (), no es un método sino una propiedad
 
-//
+
 console.log("%c4.- Funciones o Métodos de los Arreglos (Array Methods or Array Functions", style_console);
 console.log("¿Como saber cual es el tamaño de un arrego?")
 console.log(`meses es un arreglo de tamaño: ${mesesAnio.length}`)

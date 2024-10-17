@@ -211,7 +211,7 @@ let{Precio:precioProducto , SKU:productoSku, Marca:productoMarca,}= producto
 let{correo: clienteCorreo, Pais: clientePais, SaldoActual: clienteSaldo, Tipo:clienteTipo} =
 Comprador
 
-//Transformar valores cuantitativos en cualitativas 
+//Transformar valores cuantitativos en cualitativos 
 if (precioProducto>2000)
     precioProducto= "caro"
 else 

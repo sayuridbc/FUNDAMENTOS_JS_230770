@@ -249,4 +249,4 @@ listafiltrada.push(arregloEstudiantes[i]);
 
  console.log(`El total de la compra es:${costosListasCompras.reduce((total,precio)=>total+precio,0).toFixed(2)}`)
  
- //fin 
+ 

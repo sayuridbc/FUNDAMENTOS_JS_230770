@@ -33,10 +33,10 @@ const fechaLocal1MX =fechaActual.toLocaleString('es-MX',
      let horarioVerano=false;
      if (fechaActual>= inicioPrimavera &&fechaActual<inicioVerano)
      {
-        console.log("estamos en la primavera..")
+        console.log("estamos en la primavera...")
         console.log("Inicia la floracion de muchas plantas...")
         console.log("los dias son mas largos y las noches mas cortas")
-        console.log("Muchos nombres despiertan de la hibernacion")
+        console.log("Muchos animales despiertan de la hibernacion")
         estacion="primavera"
         horarioVerano=true;
      }

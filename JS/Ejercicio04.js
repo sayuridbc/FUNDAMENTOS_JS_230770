@@ -1,5 +1,5 @@
 // Repaso de Arreglo
-//parte de pract.6
+
 //Declaración de Variables de Estilo
 const bg = "linear-gradient(11deg, rgba(199,0,36,1) 0%, rgba(255,129,26,1) 33%, rgba(255,191,26,1) 86%)";
 const style_console = `background: ${bg}; color: white; border-radius: 6px; padding: 4px; font-size: 1.0rem; font-weight: bold`

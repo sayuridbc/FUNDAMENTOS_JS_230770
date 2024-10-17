@@ -276,6 +276,7 @@ let seriesTrending = [
 for(let serie of seriesTrending){
     console.log(`Serie: ${serie.nombre}, Temporadas: ${serie.Temporadas}`);
 }
+//holaaa
 try {
     console.log(`La ultima serie leida fue: ${serie.nombre}`);
 }

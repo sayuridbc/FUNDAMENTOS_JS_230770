@@ -166,7 +166,7 @@ console.log("Ahora necesitamos que si llegas al 7 te saltes ese numero y continu
 for(num=1; num<=10; num++)
 {
     if(num==7)
-    continue; 
+    continue;
 else
 console.log(num);
 }
@@ -326,3 +326,5 @@ let seriesConTresTemporadas = seriesTrending2
 
 console.log("Series con tres temporadas que estan en la lista deseada:");
 console.log(seriesConTresTemporadas);
+
+//fin de prac05

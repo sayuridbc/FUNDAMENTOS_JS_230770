@@ -39,6 +39,7 @@ const fechaLocal1MX =fechaActual.toLocaleString('es-MX',
         console.log("Muchos animales despiertan de la hibernacion")
         estacion="primavera"
         horarioVerano=true;
+        //
      }
      else if (fechaActual>=inicioVerano &&fechaActual<inicioOtonio)
         {

@@ -240,6 +240,7 @@ if (clientePais == "México")
 else 
 clientePais="Extranjero"
 
+//practica
 //ole 
 let datoClientePromociones={clienteCorreo,clientePais,clienteNivel,clienteSaldo,productoMarca,precioProducto}
 console.log("los datos del cliente y sus habitps de compra son:")

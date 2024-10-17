@@ -161,7 +161,7 @@ try{
     break;
 else
 console.log(num);
-//console.log 
+
 console.log("Ahora necesitamos que si llegas al 7 te saltes ese numero y continues")
 for(num=1; num<=10; num++)
 {
